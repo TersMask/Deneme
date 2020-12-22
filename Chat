@@ -1,0 +1,6 @@
+@echo off 
+title Diyalog
+echo Adın Ne?
+set/p ad=
+echo Memnun Oldum %ad%
+pasue
